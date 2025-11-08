@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>CV Học Thuật – Trần Văn Thịnh</title>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'Roboto', sans-serif;
+      background: linear-gradient(to right, #f0f4f8, #e8f5e9);
+      margin: 0;
+      padding: 0;
+      color: #2c3e50;
+    }
+    .container {
+      max-width: 960px;
+      margin: 40px auto;
+      background: #fff;
+      padding: 40px;
+      border-radius: 12px;
+      box-shadow: 0 8px 20px rgba(0,0,0,0.1);
+    }
+    h1 {
+      font-size: 32px;
+      margin-bottom: 10px;
+      color: #1b5e20;
+    }
+    h2 {
+      font-size: 22px;
+      margin-top: 30px;
+      color: #388e3c;
+      border-bottom: 2px solid #c8e6c9;
+      padding-bottom: 5px;
+    }
+    p, li {
+      font-size: 16px;
+      line-height: 1.6;
+    }
+    ul {
+      padding-left: 20px;
+    }
+    .badge {
+      display: inline-block;
+      background: #4CAF50;
+      color: white;
+      padding: 5px 10px;
+      border-radius: 20px;
+      font-size: 14px;
+      margin: 5px 5px 5px 0;
+    }
+    .highlight {
+      background: #f1f8e9;
+      padding: 15px;
+      border-left: 5px solid #8bc34a;
+      margin-top: 10px;
+      border-radius: 5px;
+    }
+    a {
+      color: #1e88e5;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    .profile-pic {
+      text-align: center;
+      margin-bottom: 30px;
+    }
+    .profile-pic img {
+      width: 160px;
+      border-radius: 8px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    }
+    .footer {
+      text-align: center;
+      font-size: 14px;
+      margin-top: 40px;
+      color: #777;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    
+
+    <h1>TRẦN VĂN THỊNH</h1>
+    <p><strong>Chức danh:</strong> Chuyên gia Công nghệ Thông tin</p>
+    <p><strong>Ngày sinh:</strong> 08/06/1982</p>
+    <p><strong>Email:</strong> info.taydohelp@gmail.com</p>
+    <p><strong>Điện thoại:</strong> 0947 384 923</p>
+    <p><strong>Địa chỉ:</strong> Ấp Phú Nghĩa, xã Phú Hữu, TP. Cần Thơ</p>
+    <p><strong>ORCID:</strong> <a href="https://orcid.org/0009-0001-6090-877X" target="_blank">https://orcid.org/0009-0001-6090-877X</a></p>
+
+    <h2>Mục tiêu nghề nghiệp</h2>
+    <div class="highlight">
+      Trở thành chuyên gia tư vấn và quản trị giải pháp công nghệ thông tin, đặc biệt trong lĩnh vực ứng dụng IoT, AI và hệ thống nhúng cho giáo dục, y tế và nông nghiệp thông minh.
+    </div>
+
+    <h2>Học vấn</h2>
+    <ul>
+      <li><strong>2024–2025:</strong> Thạc sĩ Kỹ thuật phần mềm – Đại học FPT</li>
+      <li><strong>2007–2022:</strong> Kỹ sư Tin học – Đại học Cần Thơ</li>
+      <li><strong>2000–2002:</strong> Kỹ thuật viên Tin học – Cao đẳng Kinh tế Kỹ thuật Cần Thơ</li>
+    </ul>
+
+    <h2>Lĩnh vực chuyên môn</h2>
+    <p>
+      <span class="badge">IoT</span>
+      <span class="badge">AI</span>
+      <span class="badge">Hệ thống nhúng</span>
+      <span class="badge">Quản lý dự án</span>
+      <span class="badge">Nông nghiệp thông minh</span>
+    </p>
+
+    <h2>Thành tựu học thuật</h2>
+    <ul>
+      <li>Bài báo: “An IoT-Based Smart Egg Incubator…” – GOODTECHS 2025</li>
+      <li>Thử nghiệm thực tế tại Cần Thơ, Đà Nẵng, Hưng Yên</li>
+      <li>Tỷ lệ nở đạt 94%, tiết kiệm điện năng 89%</li>
+    </ul>
+
+    <h2>Chứng chỉ chuyên môn</h2>
+    <ul>
+      <li>VSTEP bậc 4 – tiếng Anh</li>
+      <li>CCNA, MCITP, IoT, Open Source</li>
+      <li>AI & Deep Learning (Coursera): CNN, Sequence Models, Structuring ML Projects</li>
+      <li>Chỉ huy trưởng công trình, đấu thầu, CEO, HRM, kế toán sơ cấp</li>
+    </ul>
+
+    <h2>Kinh nghiệm làm việc</h2>
+    <p>2008–2024: Tư vấn quản lý & triển khai dự án CNTT tại Hậu Giang, Kiên Giang, Bến Tre, Bình Phước</p>
+    <ul>
+      <li>Thành phố thông minh Phú Quốc</li>
+      <li>Trung tâm giám sát Công an tỉnh Kiên Giang</li>
+      <li>Hệ thống PACS bệnh viện đa khoa</li>
+      <li>Phần mềm bản đồ số hóa công trình thủy lợi</li>
+    </ul>
+
+    <h2>Kỹ năng nổi bật</h2>
+    <ul>
+      <li>Giao tiếp, thuyết trình, đàm phán</li>
+      <li>Quản lý tiến độ, phân tích rủi ro</li>
+      <li>Lập kế hoạch và triển khai dự án</li>
+      <li>Viết báo cáo kỹ thuật và học thuật</li>
+    </ul>
+
+    <h2>Sở thích</h2>
+    <p>Du lịch khám phá, công nghệ mới và AI ứng dụng</p>
+
+    <div class="footer">
+      © 2025 – Hồ sơ học thuật của Trần Văn Thịnh
+    </div>
+  </div>
+</body>
+</html>
